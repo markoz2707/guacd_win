@@ -1,0 +1,29 @@
+EXPORTS 
+	GUAC_SSH_CLIENT_ARGS 	 DATA
+	_Avx2WmemEnabledWeakValue 	 DATA
+	__local_stdio_printf_options
+	_vsnprintf_l
+	_vsprintf_l
+	guac_client_init
+	guac_sftp_download_file
+	guac_sftp_file_handler
+	guac_sftp_set_upload_path
+	guac_ssh_argv_callback
+	guac_ssh_client_free_handler
+	guac_ssh_clipboard_blob_handler
+	guac_ssh_clipboard_end_handler
+	guac_ssh_clipboard_handler
+	guac_ssh_parse_args
+	guac_ssh_pipe_handler
+	guac_ssh_send_current_argv
+	guac_ssh_send_current_argv_batch
+	guac_ssh_settings_free
+	guac_ssh_ttymodes_init
+	guac_ssh_user_join_handler
+	guac_ssh_user_key_handler
+	guac_ssh_user_leave_handler
+	guac_ssh_user_mouse_handler
+	guac_ssh_user_size_handler
+	sprintf
+	ssh_client_thread
+	ssh_input_thread

@@ -1,0 +1,127 @@
+guacd[130280]: INFO:	Guacamole proxy daemon (guacd) version 1.6.1-win32 started
+guacd[130280]: DEBUG:	Successfully bound AF_INET socket to host 0.0.0.0, port 4822
+guacd[130280]: INFO:	prctl not available on this platform. Orphan child processes may pile up in the process table.
+guacd[130280]: INFO:	Listening on host 0.0.0.0, port 4822
+guacd[130280]: INFO:	Creating new client for protocol "rdp"
+guacd[130280]: INFO:	Connection ID is "$6d0f3d34-c744-458b-bf43-c2fa07e0ec97"
+guacd[130280]: DEBUG:	Processing instruction: size
+guacd[130280]: DEBUG:	Processing instruction: audio
+guacd[130280]: DEBUG:	Processing instruction: video
+guacd[130280]: DEBUG:	Processing instruction: image
+guacd[130280]: DEBUG:	Processing instruction: timezone
+guacd[130280]: DEBUG:	Parameter "console-audio" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "cert-tofu" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "cert-fingerprints" omitted. No default value provided.
+guacd[130280]: INFO:	Security mode: Hyper-V / VMConnect
+guacd[130280]: DEBUG:	Parameter "timeout" omitted. Using default value of 10.
+guacd[130280]: DEBUG:	User resolution is 1600x900 at 96 DPI
+guacd[130280]: DEBUG:	Using resolution of 1600x900 at 96 DPI
+guacd[130280]: DEBUG:	Parameter "force-lossless" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "domain" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "username" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "password" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "read-only" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "client-name" omitted. Using default value of "Guacamole RDP".
+guacd[130280]: DEBUG:	Parameter "initial-program" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "remote-app" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "remote-app-dir" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "remote-app-args" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "enable-full-window-drag" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "enable-desktop-composition" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "enable-menu-animations" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "disable-bitmap-caching" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "disable-offscreen-caching" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "disable-glyph-caching" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Glyph caching is currently universally disabled, regardless of the value of the "disable-glyph-caching" parameter, as glyph caching support is not considered stable by FreeRDP as of the FreeRDP 2.0.0 release. See: https://issues.apache.org/jira/browse/GUACAMOLE-1191
+guacd[130280]: DEBUG:	Preconnection BLOB: "9defd48b-957e-4b9f-9fba-eb620d2b6c86"
+guacd[130280]: DEBUG:	Parameter "disable-audio" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "printer-name" omitted. Using default value of "Guacamole Printer".
+guacd[130280]: DEBUG:	Parameter "drive-name" omitted. Using default value of "Guacamole Filesystem".
+guacd[130280]: DEBUG:	Parameter "drive-path" omitted. Using default value of "".
+guacd[130280]: DEBUG:	Parameter "disable-download" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "disable-upload" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "timezone" omitted. Using default value of "UTC".
+guacd[130280]: DEBUG:	Parameter "enable-sftp" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "sftp-hostname" omitted. Using default value of "localhost".
+guacd[130280]: DEBUG:	Parameter "sftp-host-key" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "sftp-port" omitted. Using default value of "22".
+guacd[130280]: DEBUG:	Parameter "sftp-timeout" omitted. Using default value of 10.
+guacd[130280]: DEBUG:	Parameter "sftp-username" omitted. Using default value of "".
+guacd[130280]: DEBUG:	Parameter "sftp-password" omitted. Using default value of "".
+guacd[130280]: DEBUG:	Parameter "sftp-private-key" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "sftp-passphrase" omitted. Using default value of "".
+guacd[130280]: DEBUG:	Parameter "sftp-public-key" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "sftp-directory" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "sftp-root-directory" omitted. Using default value of "/".
+guacd[130280]: DEBUG:	Parameter "sftp-server-alive-interval" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "sftp-disable-download" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "sftp-disable-upload" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "recording-path" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "recording-name" omitted. Using default value of "recording".
+guacd[130280]: DEBUG:	Parameter "recording-exclude-output" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "recording-exclude-mouse" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "recording-exclude-touch" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "recording-include-keys" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "create-recording-path" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "recording-write-existing" omitted. Using default value of 0.
+guacd[130280]: INFO:	Resize method: display-update
+guacd[130280]: DEBUG:	Parameter "disable-gfx" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "enable-touch" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "enable-audio-input" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "gateway-hostname" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "gateway-port" omitted. Using default value of 443.
+guacd[130280]: DEBUG:	Parameter "gateway-domain" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "gateway-username" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "gateway-password" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "load-balance-info" omitted. No default value provided.
+guacd[130280]: DEBUG:	Parameter "clipboard-buffer-size" omitted. Using default value of 0.
+guacd[130280]: INFO:	Unspecified or invalid clipboard buffer size: "". Using the default minimum size: 262144.
+guacd[130280]: DEBUG:	Parameter "disable-copy" omitted. Using default value of 0.
+guacd[130280]: DEBUG:	Parameter "disable-paste" omitted. Using default value of 0.
+guacd[130280]: INFO:	No clipboard line-ending normalization specified. Defaulting to preserving the format of all line endings.
+guacd[130280]: DEBUG:	Parameter "wol-send-packet" omitted. Using default value of 0.
+guacd[130280]: INFO:	User "@6c4bd534-ec84-490f-85e9-b28ff4dee0d2" joined connection "$6d0f3d34-c744-458b-bf43-c2fa07e0ec97" (1 users now present)
+guacd[130280]: DEBUG:	Client has not defined its protocol version.
+guacd[130280]: WARNING:	Number of available processors could not be determined. Assuming single-processor.
+guacd[130280]: INFO:	Graphical updates will be encoded using 1 worker thread(s).
+guacd[130280]: INFO:	[trace] calling freerdp_new()
+guacd[130280]: INFO:	[trace] freerdp_new() returned 000002829EFD5CC0
+guacd[130280]: INFO:	[trace] ContextSize=2056, calling freerdp_context_new()
+guacd[130280]: INFO:	[trace] freerdp_context_new() done, context=000002829EFD5F50
+guacd[130280]: INFO:	[trace] client pointer stored in extended context
+guacd[130280]: INFO:	Loading keymap "base"
+guacd[130280]: INFO:	Loading keymap "en-us-qwerty"
+guacd[130280]: INFO:	[trace] keymap loaded, setting cursor
+guacd[130280]: INFO:	[trace] cursor set, downgrading lock
+guacd[130280]: INFO:	[trace] calling freerdp_connect() to localhost:2179
+guacd[130280]: INFO:	[trace] pre_connect: entered
+guacd[130280]: INFO:	[trace] pre_connect: graphics=000002829F1B1490
+guacd[130280]: INFO:	[trace] pre_connect: pushing settings
+guacd[130280]: INFO:	[trace] pre_connect: settings pushed
+guacd[130280]: INFO:	[trace] pre_connect: addin provider registered
+guacd[130280]: DEBUG:	Local framebuffer format  PIXEL_FORMAT_BGRX32
+guacd[130280]: DEBUG:	Remote framebuffer format PIXEL_FORMAT_BGRA32
+guacd[130280]: INFO:	[trace] pre_connect: gdi_init done
+guacd[130280]: INFO:	[trace] load_channels: entered
+guacd[130280]: DEBUG:	Support for CLIPRDR (clipboard redirection) registered. Awaiting channel connection.
+guacd[130280]: DEBUG:	Failed to load channel guac-common-svc [(null)]
+guacd[130280]: DEBUG:	Failed to load channel guac-common-svc [(null)]
+guacd[130280]: WARNING:	Cannot create static channel "rdpdr": failed to load "guac-common-svc" plugin for FreeRDP.
+guacd[130280]: WARNING:	Support for the RDPDR channel (device redirection) could not be loaded. Drive redirection and printing will not work. Sound MAY not work.
+guacd[130280]: DEBUG:	Failed to load channel guac-common-svc [(null)]
+guacd[130280]: DEBUG:	Failed to load channel guac-common-svc [(null)]
+guacd[130280]: WARNING:	Cannot create static channel "rdpsnd": failed to load "guac-common-svc" plugin for FreeRDP.
+guacd[130280]: WARNING:	Support for the RDPSND channel (audio output) could not be loaded. Sound will not work. Drive redirection and printing MAY not work.
+guacd[130280]: WARNING:	Client does not support the "required" instruction. No authentication parameters will be requested.
+guacd[130280]: DEBUG:	No credentials provided - using NULL identity
+guacd[130280]: DEBUG:	license binary blob::type BB_ERROR_BLOB, length=0, skipping.
+guacd[130280]: DEBUG:	CLIPRDR (clipboard redirection) channel connected.
+guacd[130280]: DEBUG:	Loading Dynamic Virtual Channel disp
+guacd[130280]: DEBUG:	Loading Dynamic Virtual Channel rdpgfx
+guacd[130280]: INFO:	[trace] freerdp_connect() succeeded
+guacd[130280]: DEBUG:	ERRINFO_RPC_INITIATED_DISCONNECT (0x00000001):The disconnection was initiated by an administrative tool on the server in another session.
+guacd[130280]: DEBUG:	ERRINFO_RPC_INITIATED_DISCONNECT [0x00010001]
+guacd[130280]: INFO:	RDP server closed/refused connection: Forcibly disconnected.
+guacd[130280]: DEBUG:	Disconnect reason code: 0x1.
+guacd[130280]: DEBUG:	CLIPRDR (clipboard redirection) channel disconnected.
+guacd[130280]: INFO:	Internal RDP client disconnected

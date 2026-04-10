@@ -1,0 +1,6 @@
+guacd[126088]: INFO:	Guacamole proxy daemon (guacd) version 1.6.1-win32 started
+guacd[126088]: INFO:	prctl not available on this platform. Orphan child processes may pile up in the process table.
+guacd[126088]: INFO:	Listening on host 0.0.0.0, port 4822
+guacd[126088]: INFO:	Creating new client for protocol "rdp"
+guacd[126088]: INFO:	Connection ID is "$a2fc5865-7376-4bdb-9acf-efb1e816174b"
+guacd[126088]: INFO:	Security mode: Negotiate (ANY)

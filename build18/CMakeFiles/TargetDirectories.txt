@@ -1,0 +1,10 @@
+I:/AI Projects/guacd/build18/CMakeFiles/guac.dir
+I:/AI Projects/guacd/build18/CMakeFiles/guac_common.dir
+I:/AI Projects/guacd/build18/CMakeFiles/guacd.dir
+I:/AI Projects/guacd/build18/CMakeFiles/guacd_shared.dir
+I:/AI Projects/guacd/build18/CMakeFiles/guac_terminal.dir
+I:/AI Projects/guacd/build18/CMakeFiles/guac_common_ssh.dir
+I:/AI Projects/guacd/build18/CMakeFiles/guac-client-rdp.dir
+I:/AI Projects/guacd/build18/CMakeFiles/guac-client-ssh.dir
+I:/AI Projects/guacd/build18/CMakeFiles/edit_cache.dir
+I:/AI Projects/guacd/build18/CMakeFiles/rebuild_cache.dir

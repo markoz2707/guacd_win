@@ -1,0 +1,29 @@
+guacd[129236]: INFO:	Guacamole proxy daemon (guacd) version 1.6.1-win32 started
+guacd[129236]: DEBUG:	Successfully bound AF_INET socket to host 0.0.0.0, port 4822
+guacd[129236]: INFO:	prctl not available on this platform. Orphan child processes may pile up in the process table.
+guacd[129236]: INFO:	Listening on host 0.0.0.0, port 4822
+DEBUG: select() returned 1 (err=0)
+DEBUG: Calling accept() on fd=526732...
+DEBUG: accept() returned 526736 (err=0)
+guacd[129236]: DEBUG:	accept() returned fd=526736
+guacd[129236]: DEBUG:	Connection thread started, fd=526736
+guacd[129236]: INFO:	Creating new client for protocol "rdp"
+guacd[129236]: INFO:	Connection ID is "$a665089c-dfd2-4b85-9b37-f6cdb4a390a9"
+guacd[129236]: DEBUG:	proc_thread: starting for protocol 'rdp', proc_fd=526780
+guacd[129236]: DEBUG:	exec_proc: loading plugin for 'rdp'
+guacd[129236]: DEBUG:	io_read_thread: started fd=526840
+guacd[129236]: DEBUG:	exec_proc: entering recv_fd loop, fd_src=526780
+guacd[129236]: DEBUG:	exec_proc: received fd=526844, adding user
+guacd[129236]: DEBUG:	io_write_thread: started fd=526840
+guacd[129236]: DEBUG:	user_thread: started fd=526844 owner=1
+guacd[129236]: DEBUG:	user_thread: socket opened, starting handshake
+guacd[129236]: DEBUG:	io_read_thread: recv returned 1649
+guacd[129236]: DEBUG:	io_read_thread: wrote 1649 bytes to client, flush=0
+guacd[129236]: DEBUG:	io_read_thread: recv returned 49
+guacd[129236]: DEBUG:	Parameter "console-audio" omitted. Using default value of 0.
+guacd[129236]: DEBUG:	Parameter "cert-tofu" omitted. Using default value of 0.
+guacd[129236]: DEBUG:	io_read_thread: wrote 49 bytes to client, flush=0
+guacd[129236]: DEBUG:	Parameter "cert-fingerprints" omitted. No default value provided.
+guacd[129236]: INFO:	Security mode: Negotiate (ANY)
+guacd[129236]: DEBUG:	Parameter "timeout" omitted. Using default value of 10.
+guacd[129236]: DEBUG:	User resolution is 0x0 at 0 DPI

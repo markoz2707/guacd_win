@@ -1,0 +1,17 @@
+openssl_conf = openssl_init
+
+[openssl_init]
+providers = provider_sect
+
+# Use absolute path to find provider DLLs
+# MODULESDIR setting makes OpenSSL look here for legacy.dll
+[provider_sect]
+default = default_sect
+legacy = legacy_sect
+
+[default_sect]
+activate = 1
+
+[legacy_sect]
+activate = 1
+module = I:/AI Projects/guacd/build18/lib/ossl-modules/legacy.dll

@@ -1,0 +1,12 @@
+guacd[36228]: INFO:	Guacamole proxy daemon (guacd) version 1.6.1-win32 started
+guacd[36228]: DEBUG:	Successfully bound AF_INET socket to host 0.0.0.0, port 4822
+guacd[36228]: INFO:	prctl not available on this platform. Orphan child processes may pile up in the process table.
+guacd[36228]: INFO:	Listening on host 0.0.0.0, port 4822
+guacd[36228]: INFO:	Creating new client for protocol "rdp"
+guacd[36228]: INFO:	Connection ID is "$bc12d0b9-3423-4fd5-b67a-79ef4529f83e"
+guacd[36228]: DEBUG:	Parameter "console-audio" omitted. Using default value of 0.
+guacd[36228]: DEBUG:	Parameter "cert-tofu" omitted. Using default value of 0.
+guacd[36228]: DEBUG:	Parameter "cert-fingerprints" omitted. No default value provided.
+guacd[36228]: INFO:	Security mode: Negotiate (ANY)
+guacd[36228]: DEBUG:	Parameter "timeout" omitted. Using default value of 10.
+guacd[36228]: DEBUG:	User resolution is 0x0 at 0 DPI

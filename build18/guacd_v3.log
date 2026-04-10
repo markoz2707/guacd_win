@@ -1,0 +1,11 @@
+guacd[75632]: INFO:	Guacamole proxy daemon (guacd) version 1.6.1-win32 started
+guacd[75632]: DEBUG:	Successfully bound AF_INET socket to host 0.0.0.0, port 4822
+guacd[75632]: INFO:	prctl not available on this platform. Orphan child processes may pile up in the process table.
+guacd[75632]: INFO:	Listening on host 0.0.0.0, port 4822
+DEBUG: select() returned 1 (err=0)
+DEBUG: Calling accept() on fd=526728...
+DEBUG: accept() returned 526736 (err=0)
+guacd[75632]: DEBUG:	accept() returned fd=526736
+guacd[75632]: DEBUG:	Connection thread started, fd=526736
+guacd[75632]: INFO:	Creating new client for protocol "rdp"
+guacd[75632]: INFO:	Connection ID is "$0cf3e1fc-1943-473c-8047-c2ccfb3fce12"

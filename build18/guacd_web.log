@@ -1,0 +1,14 @@
+guacd[126636]: INFO:	Guacamole proxy daemon (guacd) version 1.6.1-win32 started
+guacd[126636]: INFO:	prctl not available on this platform. Orphan child processes may pile up in the process table.
+guacd[126636]: INFO:	Listening on host 0.0.0.0, port 4822
+guacd[126636]: INFO:	Creating new client for protocol "rdp"
+guacd[126636]: INFO:	Connection ID is "$4008ccf9-c5f4-4092-93b7-feb06908a178"
+guacd[126636]: INFO:	Security mode: Negotiate (ANY)
+guacd[126636]: INFO:	Resize method: display-update
+guacd[126636]: INFO:	Unspecified or invalid clipboard buffer size: "". Using the default minimum size: 262144.
+guacd[126636]: INFO:	No clipboard line-ending normalization specified. Defaulting to preserving the format of all line endings.
+guacd[126636]: INFO:	User "@23e2cde3-dd89-4302-9f2d-0d3a12a4e796" joined connection "$4008ccf9-c5f4-4092-93b7-feb06908a178" (1 users now present)
+guacd[126636]: WARNING:	Number of available processors could not be determined. Assuming single-processor.
+guacd[126636]: INFO:	Graphical updates will be encoded using 1 worker thread(s).
+guacd[126636]: INFO:	Loading keymap "base"
+guacd[126636]: INFO:	Loading keymap "en-us-qwerty"
